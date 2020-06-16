@@ -1,5 +1,6 @@
 # pandas-challenge
-Analysis if video game user analysis for the game Pymoli
+Analysis if video game user analysis for the game Heroes of Pymoli
+
 Utilizes python, pandas, Jupyter Notebook
 
 Three observable trends apparent in the data:
